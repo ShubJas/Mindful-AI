@@ -36,7 +36,13 @@ The app is built with [Flutter](https://flutter.dev/).
 
 The app takes in the user video interview, quizzes and various other data to predict the mental health of the user.
 
- ![image](https://github.com/ahmedfahim21/Mindful-AI/assets/99824146/daf8e7d2-1e02-434a-a0af-1e9640d92a85)
+ ![image](https://github.com/ShubJas/Mindful-AI/blob/main/flutter_app/assets/1.png)
+
+ ![image](https://github.com/ShubJas/Mindful-AI/blob/main/flutter_app/assets/2.png)
+
+ ![image](https://github.com/ShubJas/Mindful-AI/blob/main/flutter_app/assets/3.png)
+ 
+ 
 
 ## Web
 
