@@ -66,6 +66,14 @@ The machine learning diagram:
  ![image](https://github.com/ahmedfahim21/Mindful-AI/assets/99824146/daf8e7d2-1e02-434a-a0af-1e9640d92a85)
 
 
+Primary dataset - Distress Analysis Interview Corpus (DAIC) 
+This database contains clinical interviews designed to support the diagnosis of psychological distress conditions such as anxiety, depression, and post-traumatic stress disorder.
+
+These interviews were collected as part of a larger effort to create a computer agent that interviews people and identifies verbal and nonverbal indicators of mental illness (DeVault et al., 2014).  
+
+Data collected include audio and video recordings and extensive questionnaire responses; this part of the corpus includes data from the Wizard-of-Oz interviews, conducted by an animated virtual interviewer called Ellie, controlled by a human interviewer in another room.
+
+
 
 ## Product Demos
 
